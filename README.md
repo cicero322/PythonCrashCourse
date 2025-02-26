@@ -7,9 +7,9 @@ Solution of exercises of Python Crash Course, 3rd ed.  by No Starch Press
 - [x] Chapter 1: Getting Started  
 - [x] Chapter 2: Variables and Simple Data Types  
 - [x] Chapter 3: Introducing Lists  
-- [ ] Chapter 4: Working with Lists  
-- [ ] Chapter 5: if Statements  
-- [ ] Chapter 6: Dictionaries  
+- [x] Chapter 4: Working with Lists  
+- [x] Chapter 5: if Statements  
+- [x] Chapter 6: Dictionaries  
 - [ ] Chapter 7: User Input and while Loops  
 - [ ] Chapter 8: Functions  
 - [ ] Chapter 9: Classes  
