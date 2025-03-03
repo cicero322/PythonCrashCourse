@@ -1,0 +1,3 @@
+In python you can call functions, code built to suit a given finality
+In python you can call dictionaries, an list of given data
+In python you can use objects, abstractions to help you code faster, by using common code in programs
