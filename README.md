@@ -10,10 +10,10 @@ Solution of exercises of Python Crash Course, 3rd ed.  by No Starch Press
 - [x] Chapter 4: Working with Lists  
 - [x] Chapter 5: if Statements  
 - [x] Chapter 6: Dictionaries  
-- [ ] Chapter 7: User Input and while Loops  
-- [ ] Chapter 8: Functions  
-- [ ] Chapter 9: Classes  
-- [ ] Chapter 10: Files and Exceptions  
+- [X] Chapter 7: User Input and while Loops  
+- [X] Chapter 8: Functions  
+- [X] Chapter 9: Classes  
+- [X] Chapter 10: Files and Exceptions  
 - [ ] Chapter 11: Testing Your Code  
 - [ ] Chapter 12: A Ship That Fires Bullets  
 - [ ] Chapter 13: Aliens!  
